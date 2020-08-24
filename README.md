@@ -1,5 +1,5 @@
 # IVIF-CODAS Methods
-This repository contains source code necessary to reproduce the results presented in the following paper:
+This repository contains MATLAB source code necessary to reproduce the results presented in the following paper:
 
 "A Modified Interval Valued Intuitionistic Fuzzy CODAS Method and Its Application to Multi-Criteria Selection Among Renewable Energy Alternatives in Turkey"
 
